@@ -1,0 +1,8 @@
+{
+  "name": "Sunil Fabrications Hub",
+  "description": "A comprehensive business management and showcase platform for Sunil Fabrications, featuring a professional customer portal, a digital measurement logger for field workers, and an admin project tracker.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
